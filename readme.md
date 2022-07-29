@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## I'm a Student and a Developer!!
 
 - 🔭 I just launched my website: [firstboss][portfolio]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other students and developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to code and play piano
